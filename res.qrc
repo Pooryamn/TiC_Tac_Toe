@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/imgs">
+        <file>522px-Tic_tac_toe.svg.png</file>
+    </qresource>
+</RCC>
